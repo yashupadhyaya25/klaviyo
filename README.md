@@ -25,4 +25,5 @@ Download Klaviyo Report like campaings, daily metric etc
 **Step 4 :** Download chromedriver according to your chrome verison from ‘ https://chromedriver.chromium.org/downloads ’
 
 **How to run**
+
 Run main.py
