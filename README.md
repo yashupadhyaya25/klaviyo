@@ -1,7 +1,8 @@
 # Klaviyo
 Download Klaviyo Report like campaings, daily metric etc
 
-****How to setup on local
+# How to setup on local
+
 **Step 1 :** First of all download the zip or clone the repo.
 
 **Step 2 :** Unzip the file that you have downloaded from above step
@@ -24,6 +25,6 @@ Download Klaviyo Report like campaings, daily metric etc
             
 **Step 4 :** Download chromedriver according to your chrome verison from ‘ https://chromedriver.chromium.org/downloads ’
 
-**How to run**
+# How to run
 
 Run main.py
