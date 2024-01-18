@@ -1,0 +1,1 @@
+"<your python.exe path>" "<your local path>\main.py"
