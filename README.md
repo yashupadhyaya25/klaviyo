@@ -17,7 +17,11 @@ Download Klaviyo Report like campaings, daily metric etc
          azure_account_key = <azure_account_key>
          azure_container_name = <azure_container_name>
          campaign_azure_sub_folder_name = <campaign_azure_sub_folder_name>
+         daily_azure_sub_folder_name = <daily_azure_sub_folder_name>
+         flow_azure_sub_folder_name = <flow_azure_sub_folder_name>
          campaign_local_file_path = <campaign_local_file_path>
+         daily_local_file_path = <daily_local_file_path>
+         flow_local_file_path = <flow_local_file_path>
          local_download_file_path = <local_download_file_path>
          kalviyo_username = <kalviyo_username>
          kalviyo_password = <kalviyo_password>
