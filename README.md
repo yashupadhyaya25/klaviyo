@@ -26,8 +26,10 @@ Download Klaviyo Report like campaings, daily metric etc
          kalviyo_username = <kalviyo_username>
          kalviyo_password = <kalviyo_password>
          kalviyo_secret_key = <kalviyo_secret_key>
-            
-**Step 4 :** Download chromedriver according to your chrome verison from ‘ https://chromedriver.chromium.org/downloads ’
+         
+**Step 4 :** Make sure to add your capsolver api key inside **capsolver_extension\assets\config.js** file
+
+**Step 5 :** Download chromedriver according to your chrome verison from ‘ https://chromedriver.chromium.org/downloads ’
 
 # How to run
 
