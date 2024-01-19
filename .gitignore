@@ -155,3 +155,4 @@ chromedriver/chromedriver.exe
 chromedriver.exe
 chromedriver/LICENSE.chromedriver
 *.png
+capsolver_extension/assets/config.js
